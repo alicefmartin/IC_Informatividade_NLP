@@ -88,4 +88,5 @@ id,pergunta,resposta,classificação,classe_auto,anotacao_manual,correta,observa
 119,Os funcionários falaram com o chefe?,Todos falaram.,Sobreinformativa,sobreinformativa,sobreinformativa,sim,
 73,O carro e o ônibus bateram?,O carro bateu.,Subinformativa,subinformativa,subinformativa,sim,
 16,Seu pai e sua mãe sabem dirigir?,Minha mãe sabe.,Subinformativa,indefinida,subinformativa,não,
+
 11,O Rafael e a Laura participaram da reunião?,Ninguém participou.,Sobreinformativa,sobreinformativa,sobreinformativa,sim,
