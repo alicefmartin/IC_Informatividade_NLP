@@ -1,0 +1,240 @@
+id,pergunta,resposta,tipo_resposta,n_tokens,n_chars
+1,O João e a Maria foram à festa?,A Maria foi.,subinformativa,3,12
+2,O João e a Maria foram à festa?,Ninguém foi.,sobreinformativa,2,12
+4,O Pedro e a Ana chegaram ao cinema?,A Ana chegou.,subinformativa,3,13
+5,O Pedro e a Ana chegaram ao cinema?,Todos chegaram.,sobreinformativa,2,15
+6,O Pedro e a Ana chegaram ao cinema?,Não chegaram.,completa,2,13
+7,A Giovana foi ao show com o Gabriel?,"Sim, foi",completa,2,8
+8,A Giovana foi ao show com o Gabriel?,Todo mundo foi.,sobreinformativa,3,15
+9,A Giovana e a Fernanda foram ao show com o Gabriel?,A Fernanda foi.,subinformativa,3,15
+10,O Rafael e a Laura participaram da reunião?,O Rafael participou.,subinformativa,3,20
+11,O Rafael e a Laura participaram da reunião?,Ninguém participou.,sobreinformativa,2,19
+13,A Ana e a Nicole falam japonês?,A Nicole fala.,subinformativa,3,14
+15,A Ana e a Nicole falam japonês?,Ninguém fala.,sobreinformativa,2,13
+16,Seu pai e sua mãe sabem dirigir?,Minha mãe sabe.,subinformativa,3,15
+18,Seu pai e sua mãe sabem dirigir?,"Sabem, sim.",completa,2,11
+19,O Caio e a Júlia conhecem a Raquel?,O Caio conhece.,subinformativa,3,15
+20,O Caio e a Júlia conhecem a Raquel?,Todo mundo conhece,sobreinformativa,3,18
+23,Sua irmã e seu cunhado têm carro?,Ninguém próximo a mim tem.,sobreinformativa,5,26
+25,O Carlos e a Elci almoçaram?,A Elci almoçou.,subinformativa,3,15
+26,O Carlos e a Elci almoçaram?,Todo o grupo almoçou junto.,sobreinformativa,5,27
+27,O Carlos e a Elci almoçaram?,Almoçaram.,subinformativa,1,10
+28,O Ricardo e o Eric terminaram o trabalho?,O Ricardo terminou.,subinformativa,3,19
+29,O Ricardo e o Eric terminaram o trabalho?,Ninguém terminou.,sobreinformativa,2,17
+30,O Ricardo e o Eric terminaram o trabalho?,Não terminaram.,completa,2,15
+31,Os alunos e os professores compraram os ingressos?,Os professores compraram.,subinformativa,3,25
+32,Os alunos e os professores compraram os ingressos?,Todos compraram.,sobreinformativa,2,16
+34,Os adultos e as crianças gostaram do filme?,As crianças gostaram,subinformativa,3,20
+36,Os adultos e as crianças gostaram do filme?,"Sim, eles gostaram.",completa,3,19
+37,O advogado e o cliente aprovaram a proposta?,O advogado aprovou.,subinformativa,3,19
+38,O advogado e o cliente aprovaram a proposta?,Ninguém presente aprovou.,sobreinformativa,3,25
+40,O Ryan e a Bruna responderam à pergunta?,O Ryan respondeu.,subinformativa,3,17
+43,O professor e os alunos compareceram à aula?,O professor compareceu.,subinformativa,3,23
+44,O professor e os alunos compareceram à aula?,Todos compareceram.,sobreinformativa,2,19
+45,O professor e os alunos compareceram à aula?,"Sim, eles compareceram.",completa,3,23
+46,A Cláudia e a Helena concluíram a tarefa?,A Helena concluiu.,subinformativa,3,18
+47,A Cláudia e a Helena concluíram a tarefa?,Todo mundo concluiu.,sobreinformativa,3,20
+48,A Cláudia e a Helena concluíram a tarefa?,Não concluíram.,completa,2,15
+49,Os cachorros e os gatos foram ao parque?,Os cachorros foram.,subinformativa,3,19
+50,Os cachorros foram ao parque?,Nenhum animal foi.,sobreinformativa,3,18
+51,Os cachorros foram ao parque?,Sim.,completa,1,4
+52,O médico e o paciente chegaram à consulta?,O médico chegou.,subinformativa,3,16
+53,O paciente chegou à consulta?,Todos chegaram.,sobreinformativa,2,15
+55,O Lucas e o Tiago foram ao compromisso com a Lia?,O Lucas foi.,subinformativa,3,12
+56,O Lucas foi ao compromisso com a Lia?,Ninguém foi.,sobreinformativa,2,12
+57,O Lucas foi ao compromisso com a Lia?,Não foi.,completa,2,8
+58,O palhaço e a ginásta participaram do circo?,O palhaço participou.,subinformativa,3,21
+59,O palhaço participou do circo?,Todo mundo participou.,sobreinformativa,3,22
+60,O palhaço participou do circo?,"Sim, ele participou.",completa,3,20
+61,A Amanda e o Daniel falam espanhol?,O Daniel fala.,subinformativa,3,14
+62,A Amanda fala espanhol?,Todos falam.,sobreinformativa,2,12
+63,A Amanda fala espanhol?,"Não, ela não fala.",completa,4,18
+64,A Elisa e a Isabel sabem tocar piano?,A Elisa sabe.,subinformativa,3,13
+65,A Elisa sabe tocar piano?,Ninguém sabe.,sobreinformativa,2,13
+66,A Elisa sabe tocar piano?,"Sim, sabe.",completa,2,10
+67,A Melissa e o Roberto conhecem o Bruno?,O Roberto conhece.,subinformativa,3,18
+68,A Melissa conhece o Bruno?,Todo mundo conhece.,sobreinformativa,3,19
+71,O Lucas tem apartamento?,Todos tem.,sobreinformativa,2,10
+72,O Lucas tem apartamento?,Não tem.,completa,2,8
+73,O carro e o ônibus bateram?,O carro bateu.,subinformativa,3,14
+74,O carro bateu?,Nada bateu.,sobreinformativa,2,11
+75,O carro bateu?,Bateu.,completa,1,6
+76,A Ana e o Paulo leram o livro?,A Ana leu.,subinformativa,3,10
+77,O Paulo leu o livro?,Ninguém leu.,sobreinformativa,2,12
+78,O Paulo leu o livro?,Não leu.,completa,2,8
+79,A internet e a luz foram desligadas?,A luz foi.,subinformativa,3,10
+80,A internet foi desligada?,Tudo foi.,sobreinformativa,2,9
+81,A internet foi desligada?,Sim.,completa,1,4
+82,O Marcelo e a Vanessa gostaram da festa?,O Marcelo gostou.,subinformativa,3,17
+83,A Vanessa gostou da festa?,Todos gostaram.,sobreinformativa,2,15
+84,A Vanessa gostou da festa?,Não.,completa,1,4
+85,O brinco e o colar estão quebrados?,O colar está.,subinformativa,3,13
+86,O brinco está quebrado?,Nada está.,sobreinformativa,2,10
+89,O vendedor atendeu ao pedido?,Ninguém atendeu.,sobreinformativa,2,16
+90,O vendedor atendeu ao pedido?,Não atendeu.,completa,2,12
+91,O Caio e o Fernando compareceram ao evento?,O Caio compareceu.,subinformativa,3,18
+92,O Fernando compareceu ao evento?,Todo mundo compareceu.,sobreinformativa,3,22
+93,O Fernando compareceu ao evento?,"Sim, compareceu.",completa,2,16
+94,A Maria e a Ana concluíram o pedido?,A Maria concluiu.,subinformativa,3,17
+95,A Maria concluiu o pedido?,Ninguém concluiu.,sobreinformativa,2,17
+97,O avião e o helicótero decolaram?,O avião decolou.,subinformativa,3,16
+98,O avião decolou?,Nada decolou.,sobreinformativa,2,13
+99,O avião decolou?,Decolou.,completa,1,8
+100,O pai e a mãe chegaram a tempo?,A mãe chegou.,subinformativa,3,13
+101,O pai chegou a tempo?,Ninguém chegou.,sobreinformativa,2,15
+102,O pai chegou a tempo?,"Sim, ele chegou.",completa,3,16
+103,A Lisa e o João participaram do jogo?,O João participou.,subinformativa,3,18
+104,A Lisa participou do jogo?,Todo mundo participou.,sobreinformativa,3,22
+105,A Lisa participou do jogo?,"Não, não participou.",completa,3,20
+106,A diretora e o coordenador foram à apresentação das meninas?,A diretora foi.,subinformativa,3,15
+107,O coordenador foi à apresentação das meninas?,Todos foram.,sobreinformativa,2,12
+109,A Juliana e a Talita foram ao shopping com a Renata?,A Juliana foi.,subinformativa,3,14
+110,A Juliana foi ao shopping com a Renata?,Ninguém foi.,sobreinformativa,2,12
+112,O filho e o amigo fecharam a porta?,O amigo fechou.,subinformativa,3,15
+113,O filho fechou a porta?,Ninguém fechou.,sobreinformativa,2,15
+114,O filho fechou a porta?,Sim.,completa,1,4
+115,A Marcela e a Joana conheceram o cachorro?,A Joana conheceu.,subinformativa,3,17
+116,A Marcela conheceu o cachorro?,Todos conheceram.,sobreinformativa,2,17
+118,Os funcionários e as funcionárias falaram com o chefe?,Os funcionários falaram.,subinformativa,3,24
+119,Os funcionários falaram com o chefe?,Todos falaram.,sobreinformativa,2,14
+120,Os funcionários falaram com o chefe?,"Sim, eles falaram.",completa,3,18
+121,O Vitor e o Lucas foram ao trabalho?,O Lucas foi.,subinformativa,3,12
+122,O Vitor foi ao trabalho?,Ninguém foi.,sobreinformativa,2,12
+124,A Ana e a Paula chegaram à consulta?,A Ana chegou.,subinformativa,3,13
+125,A Paula chegou à consulta?,Todos chegaram.,sobreinformativa,2,15
+127,A dona e o dono levaram o cachorro ao veterinário?,A dona levou.,subinformativa,3,13
+128,O dono levou o cachorro ao veterinário?,Todos levaram.,sobreinformativa,2,14
+130,O Diego e a Bruna participaram do jogo?,O Diego participou.,subinformativa,3,19
+131,A Bruna participou do jogo?,Ninguém participou.,sobreinformativa,2,19
+132,A Bruna participou do jogo?,"Não, não participou.",completa,3,20
+133,O Jairo e o Douglas falam alemão?,O Jairo fala. ,subinformativa,3,14
+134,O Jairo fala alemão?,Todo mundo fala.,sobreinformativa,3,16
+135,O Jairo fala alemão?,Sim.,completa,1,4
+136,A cantora e o violinista sabem tocar violão?,A cantora sabe.,subinformativa,3,15
+137,A cantora sabe tocar violão?,Todas sabem.,sobreinformativa,2,12
+138,A cantora sabe tocar violão?,Claro que sabe.,completa,3,15
+140,O Theo conhece a Amanda?,Todos conhecem.,sobreinformativa,2,15
+143,O Ricardo e a Marisa têm casa própria?,Ninguém têm.,sobreinformativa,2,12
+145,O Bruno e a Letícia foram ao parque?,O Bruno foi.,subinformativa,3,12
+146,O Bruno foi ao parque?,Todo mundo foi.,sobreinformativa,3,15
+148,A Melissa e a Isabela terminaram o filme?,A Melissa terminou.,subinformativa,3,19
+149,A Melissa terminou o filme?,Todos terminaram.,sobreinformativa,2,17
+150,A Melissa terminou o filme?,Claro que terminou.,completa,3,19
+152,O Mário comprou a moto?,Nenhum amigo comprou.,sobreinformativa,3,21
+153,O Mário comprou a moto?,Comprou. ,completa,1,9
+155,A Mariana gostou do restaurante?,Todo mundo gostou.,sobreinformativa,3,18
+156,A Mariana gostou do restaurante?,"Sim, claro que gostou.",completa,4,22
+158,O site aprovou o pedido?,Tudo aprovou.,sobreinformativa,2,13
+160,A Anna Helena e a Ângela responderam ao pedido?,A Anna Helena respondeu.,subinformativa,4,24
+161,A Ângela respondeu ao pedido?,Ninguém respondeu.,sobreinformativa,2,18
+163,O Henrique e o Rodrigo compareceram à visita?,O Henrique compareceu.,subinformativa,3,22
+164,O Henrique compareceu à visita?,Todos compareceram.,sobreinformativa,2,19
+165,O Henrique compareceu à visita?,"Sim, ele compareceu.",completa,3,20
+166,O Márcio e o Rivo concluíram a conversa?,O Rivo concluiu. ,subinformativa,3,17
+167,O Márcio concluiu a conversa?,Ninguém concluiu.,sobreinformativa,2,17
+169,A Aline e o Marcel chegaram à cerimônia? ,A Aline chegou.,subinformativa,3,15
+170,O Marcel chegou à cerimônia?,Todo mundo chegou.,sobreinformativa,3,18
+171,O Marcel chegou à cerimônia?,Claro que chegou.,completa,3,17
+172,O Roberto e a Lica foram à praia com a Júlia?,A Lica foi.,subinformativa,3,11
+173,O Roberto foi à praia com a Júlia?,Ninguém foi.,sobreinformativa,2,12
+174,O Roberto foi à praia com a Júlia?,"Sim, ele foi.",completa,3,13
+175,A Natália e a Luísa participaram da formatura?,A Luísa participou. ,subinformativa,3,20
+176,A Luísa participou da formatura?,Todas participaram.,sobreinformativa,2,19
+178,O piso e as paredes estão molhadas?,O piso está.,subinformativa,3,12
+179,O piso está molhado?,Tudo está.,sobreinformativa,2,10
+181,O Rafael e a Melissa foram ao parque?,A Melissa foi.,subinformativa,3,14
+182,O Rafael foi ao parque?,Todos foram.,sobreinformativa,2,12
+183,O Rafael foi ao parque?,Sim.,completa,1,4
+184,O Tiago e a Vanessa chegaram à festa?,A Vanessa chegou.,subinformativa,3,17
+185,O Tiago chegou à festa?,Ninguém chegou.,sobreinformativa,2,15
+186,O Tiago chegou à festa?,Chegou.,completa,1,7
+187,O Caio e a Marcela estudaram para a prova?,A Marcela estudou.,subinformativa,3,18
+188,O Caio estudou para a prova?,Todos estudaram.,sobreinformativa,2,16
+189,O Caio estudou para a prova?,Não.,completa,1,4
+191,O Caio comprou o presente?,Todos compraram.,sobreinformativa,2,16
+193,O Gabriel e a Renata viram o filme?,A Renata viu.,subinformativa,3,13
+194,O Gabriel viu o filme?,Todo mundo viu.,sobreinformativa,3,15
+196,O Gabriel e a Mariana falaram com o diretor?,A Mariana falou.,subinformativa,3,16
+197,O Gabriel falou com o diretor?,Todos falaram.,sobreinformativa,2,14
+200,O Rafael terminou o relatório?,Todos terminaram.,sobreinformativa,2,17
+201,O Rafael terminou o relatório?,Não terminou.,completa,2,13
+203,O Caio gostou da viagem?,Ninguém gostou.,sobreinformativa,2,15
+204,O Caio gostou da viagem?,"Sim, gostou.",completa,2,12
+206,O Gabriel conheceu o museu?,Todo mundo conheceu.,sobreinformativa,3,20
+207,O Gabriel conheceu o museu?,Não.,completa,1,4
+208,O Caio e a Bruna participaram do evento?,A Bruna participou.,subinformativa,3,19
+209,O Caio participou do evento?,Todos participaram.,sobreinformativa,2,19
+212,O Henrique comeu a pizza?,Ninguém comeu.,sobreinformativa,2,14
+214,O arroz e o feijão estão salgados?,O arroz está.,subinformativa,3,13
+215,O arroz está salgado?,Nada está.,sobreinformativa,2,10
+216,O arroz está salgado?,Não está.,completa,2,9
+217,O Otávio e o Lucca foram ao jogo?,O Lucca foi.,subinformativa,3,12
+218,O Otávio foi ao jogo?,Ninguém foi. ,sobreinformativa,2,13
+219,O Otávio foi ao jogo?,Foi.,completa,1,4
+220,A Iasmin e a Luana chegaram ao teatro?,A Luana chegou.,subinformativa,3,15
+221,A Luana chegou ao teatro?,Todo mundo chegou.,sobreinformativa,3,18
+222,A Luana chegou ao teatro?,"Sim, chegou.",completa,2,12
+223,O Eduardo e o Pedro Henrique foram à igreja com as crianças?,O Eduardo foi.,subinformativa,3,14
+224,O Eduardo foi à igreja com as crianças?,Ninguém foi.,sobreinformativa,2,12
+226,O João Paulo e a Vitória participaram da viagem?,A Vitória participou.,subinformativa,3,21
+227,O João Paulo participou da viagem?,Ninguém participou.,sobreinformativa,2,19
+228,O João Paulo participou da viagem?,Sim.,completa,1,4
+229,A Nívia e a Joyce falam italiano?,A Joyce fala.,subinformativa,3,13
+230,A Joyce fala italiano?,Todas elas falam.,sobreinformativa,3,17
+231,A Joyce fala italiano?,Não fala.,completa,2,9
+232,A Gabi e a Fernanda sabem andar a cavalo?,A Gabi sabe.,subinformativa,3,12
+233,A Gabi sabe andar a cavalo?,Todo mundo sabe.,sobreinformativa,3,16
+234,A Gabi sabe andar a cavalo?,Sabe.,completa,1,5
+235,O Jean e o Eric conhecem o Jorge?,O Jean conhece.,subinformativa,3,15
+236,O Eric conhece o Jorge?,Ninguém conhece.,sobreinformativa,2,16
+237,O Eric conhece o Jorge?,"Não, não conhece.",completa,3,17
+238,A Iane e a Catarina têm um lugar para ficar?,A Catarina tem.,subinformativa,3,15
+239,A Catarina tem um lugar para ficar?,Ninguém têm.,sobreinformativa,2,12
+240,A Catarina tem um lugar para ficar?,"Tem, sim.",completa,2,9
+241,A Duda e a Ana viram o show?,A Duda viu.,subinformativa,3,11
+242,A Duda viu o show?,Todo mundo viu.,sobreinformativa,3,15
+245,A Larissa terminou de ensaiar?,Todos terminaram.,sobreinformativa,2,17
+248,O Gustavo comprou os livros?,Nenhum deles comprou.,sobreinformativa,3,21
+249,O Gustavo comprou os livros?,Não comprou.,completa,2,12
+250,O Guilherme e o Bruno gostaram do congresso?,O Guilherme gostou.,subinformativa,3,19
+251,O Gui gostou do congresso?,Todos gostaram.,sobreinformativa,2,15
+254,A secretária cancelou o agendamento?,Ninguém cancelou.,sobreinformativa,2,17
+255,A secretária cancelou o agendamento?,Sim.,completa,1,4
+256,O banco e a agência concederam o empréstimo?,O banco concedeu.,subinformativa,3,17
+257,O banco concedeu o empréstimo?,Nada concedeu.,sobreinformativa,2,14
+258,O banco concedeu o empréstimo?,Não.,completa,1,4
+259,Os clientes e os funcionários compareceram à reunião?,Os clientes compareceram.,subinformativa,3,25
+260,Os funcionários compareceram à reunião?,Todo mundo compareceu.,sobreinformativa,3,22
+261,Os funcionários compareceram à reunião?,Claro que compareceram.,completa,3,23
+262,O celular e o notebook terminaram de carregar?,O celular terminou.,subinformativa,3,19
+263,O celular terminou de carregar?,Tudo terminou.,sobreinformativa,2,14
+264,O celular terminou de carregar?,Não terminou.,completa,2,13
+265,O noivo e a noiva pagaram o casamento?,O noivo pagou.,subinformativa,3,14
+266,O noivo pagou o casamento?,Todos pagaram.,sobreinformativa,2,14
+267,O noivo pagou o casamento?,Pagou.,completa,1,6
+269,O diretor apareceu no filme?,Todo mundo apareceu.,sobreinformativa,3,20
+270,O diretor apareceu no filme?,Não.,completa,1,4
+271,O professor e o aluno falam inglês bem?,O professor fala.,subinformativa,3,17
+272,O professor fala inglês bem?,Ninguém fala.,sobreinformativa,2,13
+273,O professor fala inglês bem?,"Sim, ele fala.",completa,3,14
+274,O Pablo e o Guga lutam karatê?,O Pablo luta.,subinformativa,3,13
+275,O Pablo luta karatê?,Todos eles lutam.,sobreinformativa,3,17
+276,O Pablo luta karatê?,Sim.,completa,1,4
+278,A Laura escreveu o livro?,Ninguém escreveu.,sobreinformativa,2,17
+279,A Laura escreveu o livro?,Escreveu.,completa,1,9
+280,A Maria e o Robson separaram?,A Maria separou.,subinformativa,3,16
+281,A Maria separou?,Ninguém separou.,sobreinformativa,2,16
+282,A Maria separou?,Não separou.,completa,2,12
+283,O Lucas e o João furtaram a loja?,O Lucas furtou.,subinformativa,3,15
+284,O João furtou a loja?,Todos furtaram.,sobreinformativa,2,15
+285,O João furtou a loja?,Sim.,completa,1,4
+286,O cartão e a carteira foram roubadas?,O cartão foi.,subinformativa,3,13
+287,O cartão foi roubado?,Tudo foi.,sobreinformativa,2,9
+289,A senha e a digital estão corretas?,A digital está.,subinformativa,3,15
+290,A senha está correta?,Nada está.,sobreinformativa,2,10
+291,A senha está correta?,Não.,completa,1,4
+293,A Paty é do sul?,Nenhuma é.,sobreinformativa,2,10
+296,A Beatriz joga sinuca?,Ninguém joga.,sobreinformativa,2,13
+298,O Vinícius e o Kauã são primos da Letícia?,O Vinícius é.,subinformativa,3,13
+299,O Vini é primo da Letícia?,Todos são.,sobreinformativa,2,10
+300,O Vini é primo da Letícia?,Sim.,completa,1,4
