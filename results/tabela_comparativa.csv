@@ -1,0 +1,3 @@
+Modelo,Representação,Acurácia,F1-macro
+TF-IDF + LR,TF-IDF,0.9583,0.95
+BERTimbau,Embeddings contextualizados,0.3958,0.1919
