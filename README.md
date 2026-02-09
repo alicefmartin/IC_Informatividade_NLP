@@ -10,3 +10,14 @@ Inicialmente, os dados são anotados por meio de regras linguísticas inspiradas
 A avaliação dos modelos é realizada por meio de métricas descritivas (acurácia, precisão, revocação e F1-score), bem como análises inferenciais que permitem comparar o desempenho entre diferentes abordagens. Os resultados são discutidos à luz de teorias semântico-pragmáticas, buscando compreender como inferências pragmáticas podem ser modeladas computacionalmente.
 
 O projeto está organizado em pastas que separam dados, notebooks, scripts, modelos treinados e resultados, de modo a garantir reprodutibilidade e clareza metodológica.
+
+## Como Instalar e Rodar
+
+1. **Clonar e configurar ambiente:**
+   ```bash
+   git clone https://github.com/alicefmartin/IC_Informatividade_NLP.git
+   cd IC_Informatividade_NLP
+   python -m venv venv
+   # Ative o venv (source venv/bin/activate ou venv\Scripts\activate )
+   pip install -r requirements.txt
+
