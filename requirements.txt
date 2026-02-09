@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+transformers
+torch
+matplotlib
+seaborn
+joblib
+ipykernel
+notebook
